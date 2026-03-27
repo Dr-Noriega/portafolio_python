@@ -9,3 +9,8 @@ print("5) Salir")
 
 
 print("Elegí una opción")
+
+Fechas = []
+Montos = []
+Tipo = []
+Descripciones = []
